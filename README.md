@@ -11,7 +11,7 @@ This paper presents a benchmark dataset of high-rise hig-density urban point clo
 
 * The semantic labels of HRHD-HK include building, vegetation, road, waterbody, facility, terrain, and vehicle. 
 * Point clouds of HRHD-HK were collected in HK with two features, i.e., color and coordinates in the HK 1980 Grid system (EPSG:2326). 
-* HRHD-HK arranged in 150 tiles, contain approximately 273 million points, covering 9.375 km^2. 
+* HRHD-HK arranged in 150 tiles, contain approximately 273 million points, covering 9.375 km$^2$.
 * HRHD-HK aims to supplement the existing benchmark datasets with Asian HRHD urban scenes as well as subtropical natural landscapes, such as sea, vegetation, and mountains.
 
 HRHD-HK will be available soon once the paper is online.
