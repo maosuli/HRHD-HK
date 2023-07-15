@@ -14,5 +14,5 @@ This paper presents a benchmark dataset of high-rise hig-density urban point clo
 * HRHD-HK arranged in 150 tiles, contain approximately 273 million points, covering 9.375 km^2. 
 * HRHD-HK aims to supplement the existing benchmark datasets with Asian HRHD urban scenes as well as subtropical natural landscapes, such as sea, vegetation, and mountains.
 
-Dataset will be available soon once the paper is online.
+HRHD-HK will be available soon once the paper is online.
 
