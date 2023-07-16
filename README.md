@@ -11,7 +11,7 @@ Overview of HRHD-HK
 
 This paper presents a benchmark dataset of high-rise hig-density urban point clouds, namely High-Rise, High-Density urban scenes of Hong Kong (HRHD-HK) for 3D semantic segmentation.
 
-* The semantic labels of HRHD-HK include building, vegetation, road, waterbody, facility, terrain, and vehicle. 
+* The semantic labels of HRHD-HK include 1) building, 2) vegetation, 3) road, 4) waterbody, 5) facility, 6) terrain, and 7) vehicle.
 * Point clouds of HRHD-HK were collected in HK with two features, i.e., color and coordinates in the HK 1980 Grid system (EPSG:2326). 
 * HRHD-HK arranged in 150 tiles, contain approximately 273 million points, covering 9.375 km<sup>2</sup>.
 * HRHD-HK aims to supplement the existing benchmark datasets with Asian HRHD urban scenes as well as subtropical natural landscapes, such as sea, vegetation, and mountains.
