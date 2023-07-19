@@ -3,7 +3,7 @@ HRHD-HK: A Benchmark Dataset of High-Rise and High-Density Urban Scenes for 3D S
 
 This is the official repository of the HRHD-HK dataset. For technical details, please refer to:
 
-Li, M., Wu, Y., Yeh, A. G., & Xue, F. (2023, October). HRHD-HK: A Benchmark Dataset of High-Rise and High-Density Urban Scenes for 3D Semantic Segmentation of Photogrammetric Point Clouds. In 2023 30th IEEE International Conference on Image Processing (Under review). IEEE.
+Li, M., Wu, Y., Yeh, A. G., & Xue, F. (2023, October). HRHD-HK: A Benchmark Dataset of High-Rise and High-Density Urban Scenes for 3D Semantic Segmentation of Photogrammetric Point Clouds. In Proceedings of 2023 IEEE International Conference on Image Processing (Under review). IEEE.
 
 This study was supported in part by the Hong Kong Research Grant Council (RGC) (27200520) and Department of Science and Technology of Guangdong Province (GDST) (2020B1212030009, 2023A1515010757).
 
