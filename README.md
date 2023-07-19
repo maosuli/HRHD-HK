@@ -1,4 +1,3 @@
-# HRHD-HK
 # HRHD-HK: A Benchmark Dataset of High-Rise and High-Density Urban Scenes for 3D Semantic Segmentation of Photogrammetric Point Clouds
 
 This is the official repository of the HRHD-HK dataset. For technical details, please refer to:
