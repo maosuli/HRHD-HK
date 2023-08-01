@@ -16,7 +16,9 @@ This paper presents a benchmark dataset of high-rise hig-density urban point clo
 * Each tile of point clouds was saved in the "ply" format with seven channels, i.e., x, y, z, red, green, blue, and label.
 * HRHD-HK aims to supplement the existing benchmark datasets with Asian HRHD urban scenes as well as subtropical natural landscapes, such as sea, vegetation, and mountains.
 
-HRHD-HK will be available soon once the peer-reviewed paper is online.
+HRHD-HK is now available at the HKU Data Repository.
+
+Li, Maosu; Wu, Yijie; Yeh, Anthony Gar On; Xue, Fan (2023). Supporting data for "HRHD-HK: A Benchmark Dataset of High-Rise and High-Density Urban Scenes for 3D Semantic Segmentation of Photogrammetric Point Clouds". HKU Data Repository. Dataset. https://doi.org/10.25442/hku.23701866.v1
 
 For any inquiries, please feel free to contact Maosu at maosulee@connect.hku.hk or Dr. Frank at xuef@hku.hk.
 
