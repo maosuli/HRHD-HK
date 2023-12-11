@@ -2,13 +2,13 @@
 
 This is the official repository of the HRHD-HK dataset. For technical details, please refer to:
 
-Li, M., Wu, Y., Yeh, A. G. O., & Xue, F. (2023). HRHD-HK: A benchmark dataset of high-rise and high-density urban scenes for 3D semantic segmentation of photogrammetric point clouds [Preprint]. arXiv:2307.07976. doi: 10.48550/arXiv.2307.07976
+Li, M., Wu, Y., Yeh, A. G. O., & Xue, F. (2023). HRHD-HK: A benchmark dataset of high-rise and high-density urban scenes for 3D semantic segmentation of photogrammetric point cloud. Proceedings of 2023 IEEE International Conference on Image Processing Challenges and Workshops, 3714-3718. IEEE. https://doi.org/10.1109/ICIPC59416.2023.10328383
 
-This study was supported in part by the Hong Kong Research Grant Council (RGC) (27200520) and Department of Science and Technology of Guangdong Province (GDST) (2020B1212030009, 2023A1515010757).
+This study was supported in part by the Hong Kong Research Grant Council (RGC) (27200520) and the Department of Science and Technology of Guangdong Province (GDST) (2020B1212030009, 2023A1515010757).
 
 # Overview of HRHD-HK
 
-This paper presents a benchmark dataset of high-rise hig-density urban point clouds, namely High-Rise, High-Density urban scenes of Hong Kong (HRHD-HK) for 3D semantic segmentation.
+This paper presents a benchmark dataset of high-rise high-density urban point clouds, namely High-Rise, High-Density urban scenes of Hong Kong (HRHD-HK) for 3D semantic segmentation.
 
 * The semantic labels of HRHD-HK include 1) building, 2) vegetation, 3) road, 4) waterbody, 5) facility, 6) terrain, and 7) vehicle.
 * Point clouds of HRHD-HK were collected in HK with two features, i.e., color and coordinates in the HK 1980 Grid system (EPSG:2326).
@@ -18,7 +18,7 @@ This paper presents a benchmark dataset of high-rise hig-density urban point clo
 
 HRHD-HK is now available at the HKU Data Repository.
 
-Li, Maosu; Wu, Yijie; Yeh, Anthony Gar On; Xue, Fan (2023). Supporting data for "HRHD-HK: A Benchmark Dataset of High-Rise and High-Density Urban Scenes for 3D Semantic Segmentation of Photogrammetric Point Clouds". HKU Data Repository. Dataset. https://doi.org/10.25442/hku.23701866.v1
+Li, Maosu; Wu, Yijie; Yeh, Anthony Gar On; Xue, Fan (2023). Supporting data for "HRHD-HK: A Benchmark Dataset of High-Rise and High-Density Urban Scenes for 3D Semantic Segmentation of Photogrammetric Point Clouds". HKU Data Repository. Dataset. https://doi.org/10.25442/hku.23701866.v2
 
 Please cite our paper and dataset, if you find our work useful for your research and practices. Many thanks.
 
